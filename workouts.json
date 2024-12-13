@@ -1,0 +1,356 @@
+{
+  "benchPress": {
+    "name": "Bench Press",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "pushUps": {
+    "name": "Push-ups",
+    "group": "Chest",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "machineFly": {
+    "name": "Machine fly",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "dips": {
+    "name": "Dips",
+    "group": "Chest",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "dumbbellFlyes": {
+    "name": "Dumbbell Flyes",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "dumbbellPullover": {
+    "name": "Dumbbell Pullover",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "cableCrossover": {
+    "name": "Cable Crossover",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "inclineDumbbellPress": {
+    "name": "Incline Dumbbell Press",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "declineDumbbellPress": {
+    "name": "Decline Dumbbell Press",
+    "group": "Chest",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "overheadTricepExtension": {
+    "name": "Overhead Tricep Extension",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "tricepDips": {
+    "name": "Tricep Dips",
+    "group": "Triceps",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "diamondPushUps": {
+    "name": "Diamond Push-ups",
+    "group": "Triceps",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "lyingTricepExtension": {
+    "name": "Lying Triceps Extension",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "closeGripBenchPress": {
+    "name": "Close Grip Bench Press",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "weightedBenchDip": {
+    "name": "Weighted Bench Dip",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "cablePushDown": {
+    "name": "Cable Push-down",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "tricepDumbbellKickback": {
+    "name": "Tricep Dumbbell Kickback",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "skullCrusher": {
+    "name": "Skull Crusher",
+    "group": "Triceps",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "dumbbellRow": {
+    "name": "Dumbbell Row",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "bentOverRow": {
+    "name": "Bent-Over Row",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "seatedCableRow": {
+    "name": "Seated Cable Row",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "latPullDown": {
+    "name": "Lat Pull-Down",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "pullUp": {
+    "name": "Pull-up",
+    "group": "Back",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "alternatingRenegadeRow": {
+    "name": "Alternating Renegade Row",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "reverseFlye": {
+    "name": "Reverse Flye",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "tBarRow": {
+    "name": "T-bar Row",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "facePull": {
+    "name": "Face pull",
+    "group": "Back",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "bicepCurl": {
+    "name": "Bicep Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "concentrationCurl": {
+    "name": "Concentration Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "hammerCurl": {
+    "name": "Hammer Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "chinUp": {
+    "name": "Chin up",
+    "group": "Bicep",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "ezBarCurl": {
+    "name": "Ez-bar Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "preacherCurl": {
+    "name": "Preacher Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "machineBicepCurl": {
+    "name": "Machine Bicep Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "standingCableBicepCurl": {
+    "name": "Standing Cable Bicep Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "BayesianCableCurl": {
+    "name": "Bayesian Cable Curl",
+    "group": "Bicep",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "squat": {
+    "name": "Squat",
+    "group": "Legs",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "backBarbellSquat": {
+    "name": "Back Barbell Squat",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "frontBarbellSquat": {
+    "name": "Front Barbell Squat",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "gluteBridge": {
+    "name": "Glute Bridge",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "romanianDeadlift": {
+    "name": "Romanian Deadlift",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "walkingLunges": {
+    "name": "Walking Lunges",
+    "group": "Legs",
+    "type": "Calisthenic",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "bulgarianSplitSquat": {
+    "name": "Bulgarian Split Squat",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "calfRaises": {
+    "name": "Calf Raises",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "legPress": {
+    "name": "Leg Press",
+    "group": "Legs",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "overheadPress": {
+    "name": "Overhead Press",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "frontCableRaise": {
+    "name": "Front Cable Raise",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "sideCableLateralRaise": {
+    "name": "Side Cable Lateral Raise",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "behindTheNeckPress": {
+    "name": "Behind the Neck Press",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "externalRotation": {
+    "name": "External Rotation",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "rearDeltFly": {
+    "name": "Rear Delt Fly",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "seatedDumbbellPress": {
+    "name": "Seated Dumbbell Press",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "arnoldPress": {
+    "name": "Arnold Press",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "shoulderShrugs": {
+    "name": "Shoulder Shrugs",
+    "group": "Shoulders",
+    "type": "Weighted",
+    "attributes": ["dates", "weight", "reps", "sets", "notes"]
+  },
+  "briskWalk": {
+    "name": "Brisk Walk",
+    "group": "Cardio",
+    "type": "independent",
+    "attributes": ["dates", "time", "pace", "distance", "notes"]
+  },
+  "running": {
+    "name": "Running",
+    "group": "Cardio",
+    "type": "independent",
+    "attributes": ["dates", "time", "pace", "distance", "notes"]
+  },
+  "swimming": {
+    "name": "Swimming",
+    "group": "Cardio",
+    "type": "pool",
+    "attributes": ["dates", "time", "pace", "distance", "notes"]
+  },
+  "cyclingStationary": {
+    "name": "Cycling-Stationary",
+    "group": "Cardio",
+    "type": "stationary bike",
+    "attributes": ["dates", "time", "pace", "distance", "notes"]
+  },
+  "cyclingBike": {
+    "name": "Cycling-Bike",
+    "group": "Cardio",
+    "type": "actual bike",
+    "attributes": ["dates", "time", "pace", "distance", "notes"]
+  }
+}
